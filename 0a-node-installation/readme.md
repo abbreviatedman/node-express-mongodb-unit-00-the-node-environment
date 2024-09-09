@@ -1,6 +1,6 @@
 # Installing Node
 
-For this course, you will need Node installed on  your machine. Here are your instructions for various operating systems.
+For this course, you will need Node installed on your machine. Here are your instructions for various operating systems.
 
 ### MacOS and Windows
 
